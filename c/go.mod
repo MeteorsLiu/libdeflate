@@ -1,4 +1,4 @@
-module github.com/llarhub/libdeflate/c
+module github.com/MeteorsLiu/libdeflate/c
 
 go 1.23
 
